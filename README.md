@@ -1,5 +1,5 @@
 # cd-wordpress
-continuous deployment wordpress
+website for ski and snowboard lovers
 
 TLDR;
 
